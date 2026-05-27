@@ -5,7 +5,7 @@
 //  Created by Steven Fisher on 2026-03-13.
 //
 
-nonisolated
+public nonisolated
 enum Symbol: String {
     case squareAndArrowUp = "square.and.arrow.up"
     case squareAndArrowUpFill = "square.and.arrow.up.fill"
