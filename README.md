@@ -29,3 +29,11 @@ Here, you'd use .soccerBall instead of .soccerball. The reasoning is simple: the
 
 ## License
 I've used the most permissive license I could find, The Unlicense. Suggestions and patches are welcomed, as long as they fit in the small scope of this project.
+
+## Why
+I've seen units that offer this before, why write my own?
+
+1. I wanted something truly minimal: Just the symbols, and wrappers for using them. This library errs in being too small; I've got some additional wrapper and some examples coming later.
+2. I wanted a minimal license, and it doesn't get any more minimal than The Unlicense.
+
+Please enjoy.
