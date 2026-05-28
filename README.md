@@ -33,7 +33,7 @@ I've used the most permissive license I could find, The Unlicense. Suggestions a
 ## Why
 I've seen units that offer this before, why write my own?
 
-1. I wanted something truly minimal: Just the symbols, and wrappers for using them. This library errs in being too small; I've got some additional wrapper and some examples coming later.
+1. I wanted something truly minimal: Just the symbols, and wrappers for using them. This library errs in being too small; I've got some additional wrappers and some examples coming later.
 2. I wanted a minimal license, and it doesn't get any more minimal than The Unlicense.
 
 Please enjoy.
